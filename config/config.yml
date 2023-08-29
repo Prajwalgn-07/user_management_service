@@ -1,0 +1,7 @@
+database:
+  address: 127.0.0.1
+  host: localhost
+  port: 5433
+  user: postgres
+  password: mysecretpassword
+  dbname: user_management_db
